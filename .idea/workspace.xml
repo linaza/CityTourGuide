@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="98921144-e33e-4b7f-8f23-a7ed271e788e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CityTourGuide" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Yl3xRucjRZBn9q0RpB0MbnFpAT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.protractor.protractor_package" value="$PROJECT_DIR$/node_modules/protractor" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="ts.external.directory.path" value="C:\Users\linaz\OneDrive\Desktop\CityTourGuide\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\linaz\OneDrive\Desktop\CityTourGuide\src\app\services" />
+      <recent name="C:\Users\linaz\OneDrive\Desktop\CityTourGuide\src\assets" />
+      <recent name="C:\Users\linaz\OneDrive\Desktop\CityTourGuide\src\assets\icon" />
+      <recent name="C:\Users\linaz\OneDrive\Desktop\CityTourGuide\src\assets\input" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\linaz\OneDrive\Desktop\CityTourGuide\src\assets\icon" />
+      <recent name="C:\Users\linaz\OneDrive\Desktop\CityTourGuide\src\app" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.Angular Application">
+    <configuration name="Tests (app)" type="JavaScriptTestRunnerKarma">
+      <config-file value="$PROJECT_DIR$/karma.conf.js" />
+      <karma-package-dir value="$PROJECT_DIR$/node_modules/@angular/cli" />
+      <working-directory value="$PROJECT_DIR$" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="E2E Tests (app)" type="JavaScriptTestRunnerProtractor">
+      <config-file value="$PROJECT_DIR$/e2e/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <protractor-package value="$PROJECT_DIR$/node_modules/protractor" />
+      <protractor-options value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98921144-e33e-4b7f-8f23-a7ed271e788e" name="Default Changelist" comment="" />
+      <created>1583503599778</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583503599778</updated>
+      <workItem from="1583503602829" duration="40143000" />
+      <workItem from="1583599187416" duration="9064000" />
+      <workItem from="1583663545175" duration="10727000" />
+      <workItem from="1584040722007" duration="9544000" />
+      <workItem from="1584196285147" duration="5762000" />
+      <workItem from="1584434313485" duration="1021000" />
+      <workItem from="1584798895986" duration="734000" />
+      <workItem from="1584807284466" duration="6590000" />
+      <workItem from="1586089634699" duration="877000" />
+      <workItem from="1586091532495" duration="2319000" />
+      <workItem from="1586456184133" duration="1691000" />
+      <workItem from="1586532452607" duration="14097000" />
+      <workItem from="1587732206909" duration="1389000" />
+      <workItem from="1587893924367" duration="7488000" />
+      <workItem from="1588073534946" duration="3550000" />
+      <workItem from="1588115398310" duration="8518000" />
+      <workItem from="1588283116126" duration="640000" />
+      <workItem from="1588364630211" duration="10194000" />
+      <workItem from="1588618119477" duration="676000" />
+      <workItem from="1588628555579" duration="6741000" />
+      <workItem from="1588717993356" duration="3908000" />
+      <workItem from="1588851184131" duration="19285000" />
+      <workItem from="1588977412098" duration="4540000" />
+      <workItem from="1589156350280" duration="9302000" />
+      <workItem from="1589451784799" duration="4504000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="724" y="74" key="#Inspections" timestamp="1583583326501">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="724" y="74" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1583583326501" />
+    <state x="526" y="216" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583606857961">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="526" y="216" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1583606857961" />
+    <state x="404" y="192" key="EditFileWatcherDialog" timestamp="1583520226551">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="404" y="192" key="EditFileWatcherDialog/0.0.1536.824@0.0.1536.824" timestamp="1583520226551" />
+    <state x="550" y="168" key="FileChooserDialogImpl" timestamp="1589453391776">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="550" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589453391776" />
+    <state x="606" y="307" key="Github.ShareDialog" timestamp="1589454466089">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="606" y="307" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1589454466089" />
+    <state x="279" y="56" key="SettingsEditor" timestamp="1589452942130">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="279" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1589452942130" />
+    <state x="462" y="10" width="615" height="804" key="find.popup" timestamp="1588079609609">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="462" y="10" width="615" height="804" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1588079609609" />
+    <state x="426" y="188" key="run.anything.popup" timestamp="1583608929518">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="426" y="188" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1583608929518" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1588898467022">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1588898467022" />
+  </component>
+</project>
