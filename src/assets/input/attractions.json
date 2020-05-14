@@ -1,0 +1,122 @@
+[
+  {"attraction":"Tower of David",
+    "OpeningHours": ["Sun-Thurs -> 09:00 -16:00",
+      "(Aug)Sun-Thurs -> 09:00-17:00",
+      "Friday: 09:00-14:00",
+      "Sat: 09:00-16:00"],
+    "phone":"026265333",
+    "img":"./assets/icon/towerOfDavid.jpg",
+    "location":null,
+    "about":""
+  },
+
+  {"attraction":"The Ramparts Walk",
+    "OpeningHours":["(Summer) Sat - Thurs -> 9:00-17:00","June, July & Aug Southern Ramparts open 9:00-22:00"," Fri: 9:00-14:00","(Winter) Sat - Thurs -> 9:00-16:00"," Fri: 9:00-14:00","Northern Ramparts (Jaffa Gate - Damascus Gate) closed on Friday"],
+    "phone":"",
+    "img":"./assets/icon/ramparts.jpg",
+    "location":null,
+    "about":""
+  },
+
+  {"attraction":"Christian Information Center",
+    "OpeningHours":["Mon- Fri ->  9:00-17:30", "Sat: 9:00-12:30", "Sun: closed"],
+    "phone":"026272692",
+    "img":"./assets/icon/Christian Information Center.jpg",
+    "location":null,
+    "about":""},
+
+  {"attraction":"Post Office (Jaffa Gate)","OpeningHours":["Sun, Mon, Wed & Thu: 8:00- 16:00",", Tue: 8:00-13:30", "Fri: 8:00-12:00"],"phone":"026282265","img":"./assets/icon/postoffice.jpg",
+    "location":null,"about":""},
+
+  {"attraction":"King David’s Tomb","OpeningHours":["Sun - Thurs ->  08:00-Sunset","Fri: 08:00 -13:00"],
+    "phone":"","img":"./assets/icon/KingDavidTomb.jpg",
+    "location":null,"about":""},
+
+  {"attraction":"Chamber of the Holocaust","OpeningHours":["Sun-Thurs -> 09:00 -16:00","(Aug)Sun-Thurs -> 09:00-17:00",
+    "Friday: 09:00-14:00","Sat: 09:00-16:00"],"phone":"026265333","img":"./assets/icon/ChamberoftheHolocaust.jpg",
+    "location":null,"about":""},
+
+  {"attraction":"Room of the Last Supper - Coenaculum","OpeningHours":["Sun-Thurs -> 09:00 -16:00","(Aug)Sun-Thurs -> 09:00-17:00",
+    "Friday: 09:00-14:00","Sat: 09:00-16:00"],"phone":"026265333","img":"./assets/icon/LastSupper.jpg",
+    "location":null,"about":""},
+
+  {"attraction":"Dormition Abbey","OpeningHours":["Sun-Thurs -> 09:00 -16:00","(Aug)Sun-Thurs -> 09:00-17:00",
+    "Friday: 09:00-14:00","Sat: 09:00-16:00"],"phone":"026265333","img":"./assets/icon/DormitionAbbey.jpg",
+    "location":null,"about":""},
+
+  {"attraction":"Tower of David:","OpeningHours":["Sun-Thurs -> 09:00 -16:00","(Aug)Sun-Thurs -> 09:00-17:00",
+    "Friday: 09:00-14:00","Sat: 09:00-16:00"],"phone":"026265333","img":"./assets/icon/towerOfDavid.jpg",
+    "location":null,"about":""},
+
+  {"attraction":"Tower of David:","OpeningHours":["Sun-Thurs -> 09:00 -16:00","(Aug)Sun-Thurs -> 09:00-17:00",
+    "Friday: 09:00-14:00","Sat: 09:00-16:00"],"phone":"026265333","img":"./assets/icon/towerOfDavid.jpg",
+    "location":null,"about":""},
+
+  {"attraction":"Tower of David:","OpeningHours":["Sun-Thurs -> 09:00 -16:00","(Aug)Sun-Thurs -> 09:00-17:00",
+    "Friday: 09:00-14:00","Sat: 09:00-16:00"],"phone":"026265333","img":"./assets/icon/towerOfDavid.jpg",
+    "location":null,"about":""},
+
+  {"attraction":"Tower of David:","OpeningHours":["Sun-Thurs -> 09:00 -16:00","(Aug)Sun-Thurs -> 09:00-17:00",
+    "Friday: 09:00-14:00","Sat: 09:00-16:00"],"phone":"026265333","img":"./assets/icon/towerOfDavid.jpg",
+    "location":null,"about":""},
+
+  {"attraction":"Tower of David:","OpeningHours":["Sun-Thurs -> 09:00 -16:00","(Aug)Sun-Thurs -> 09:00-17:00",
+    "Friday: 09:00-14:00","Sat: 09:00-16:00"],"phone":"026265333","img":"./assets/icon/towerOfDavid.jpg",
+    "location":null,"about":""},
+
+  {"attraction":"Tower of David:","OpeningHours":["Sun-Thurs -> 09:00 -16:00","(Aug)Sun-Thurs -> 09:00-17:00",
+    "Friday: 09:00-14:00","Sat: 09:00-16:00"],"phone":"026265333","img":"./assets/icon/towerOfDavid.jpg",
+    "location":null,"about":""},
+
+  {"attraction":"Tower of David:","OpeningHours":["Sun-Thurs -> 09:00 -16:00","(Aug)Sun-Thurs -> 09:00-17:00",
+    "Friday: 09:00-14:00","Sat: 09:00-16:00"],"phone":"026265333","img":"./assets/icon/towerOfDavid.jpg",
+    "location":null,"about":""},
+
+  {"attraction":"Tower of David:","OpeningHours":["Sun-Thurs -> 09:00 -16:00","(Aug)Sun-Thurs -> 09:00-17:00",
+    "Friday: 09:00-14:00","Sat: 09:00-16:00"],"phone":"026265333","img":"./assets/icon/towerOfDavid.jpg",
+    "location":null,"about":""},
+
+  {"attraction":"Tower of David:","OpeningHours":["Sun-Thurs -> 09:00 -16:00","(Aug)Sun-Thurs -> 09:00-17:00",
+    "Friday: 09:00-14:00","Sat: 09:00-16:00"],"phone":"026265333","img":"./assets/icon/towerOfDavid.jpg",
+    "location":null,"about":""},
+
+  {"attraction":"Tower of David:","OpeningHours":["Sun-Thurs -> 09:00 -16:00","(Aug)Sun-Thurs -> 09:00-17:00",
+    "Friday: 09:00-14:00","Sat: 09:00-16:00"],"phone":"026265333","img":"./assets/icon/towerOfDavid.jpg",
+    "location":null,"about":""},
+
+  {"attraction":"Tower of David:","OpeningHours":["Sun-Thurs -> 09:00 -16:00","(Aug)Sun-Thurs -> 09:00-17:00",
+    "Friday: 09:00-14:00","Sat: 09:00-16:00"],"phone":"026265333","img":"./assets/icon/towerOfDavid.jpg",
+    "location":null,"about":""},
+
+  {"attraction":"Tower of David:","OpeningHours":["Sun-Thurs -> 09:00 -16:00","(Aug)Sun-Thurs -> 09:00-17:00",
+    "Friday: 09:00-14:00","Sat: 09:00-16:00"],"phone":"026265333","img":"./assets/icon/towerOfDavid.jpg",
+    "location":null,"about":""},
+
+  {"attraction":"Tower of David:","OpeningHours":["Sun-Thurs -> 09:00 -16:00","(Aug)Sun-Thurs -> 09:00-17:00",
+    "Friday: 09:00-14:00","Sat: 09:00-16:00"],"phone":"026265333","img":"./assets/icon/towerOfDavid.jpg",
+    "location":null,"about":""},
+
+  {"attraction":"Tower of David:","OpeningHours":["Sun-Thurs -> 09:00 -16:00","(Aug)Sun-Thurs -> 09:00-17:00",
+    "Friday: 09:00-14:00","Sat: 09:00-16:00"],"phone":"026265333","img":"./assets/icon/towerOfDavid.jpg",
+    "location":null,"about":""},
+
+  {"attraction":"Tower of David:","OpeningHours":["Sun-Thurs -> 09:00 -16:00","(Aug)Sun-Thurs -> 09:00-17:00",
+    "Friday: 09:00-14:00","Sat: 09:00-16:00"],"phone":"026265333","img":"./assets/icon/towerOfDavid.jpg",
+    "location":null,"about":""},
+
+  {"attraction":"Tower of David:","OpeningHours":["Sun-Thurs -> 09:00 -16:00","(Aug)Sun-Thurs -> 09:00-17:00",
+    "Friday: 09:00-14:00","Sat: 09:00-16:00"],"phone":"026265333","img":"./assets/icon/towerOfDavid.jpg",
+    "location":null,"about":""},
+
+  {"attraction":"Tower of David:","OpeningHours":["Sun-Thurs -> 09:00 -16:00","(Aug)Sun-Thurs -> 09:00-17:00",
+    "Friday: 09:00-14:00","Sat: 09:00-16:00"],"phone":"026265333","img":"./assets/icon/towerOfDavid.jpg",
+    "location":null,"about":""},
+
+  {"attraction":"Tower of David:","OpeningHours":["Sun-Thurs -> 09:00 -16:00","(Aug)Sun-Thurs -> 09:00-17:00",
+    "Friday: 09:00-14:00","Sat: 09:00-16:00"],"phone":"026265333","img":"./assets/icon/towerOfDavid.jpg",
+    "location":null,"about":""},
+
+  {"attraction":"Tower of David:","OpeningHours":["Sun-Thurs -> 09:00 -16:00","(Aug)Sun-Thurs -> 09:00-17:00",
+    "Friday: 09:00-14:00","Sat: 09:00-16:00"],"phone":"026265333","img":"./assets/icon/towerOfDavid.jpg",
+    "location":null,"about":""}
+]

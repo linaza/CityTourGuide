@@ -1,0 +1,18 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>verification</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content id="verification">
+  <h2 id="msg">
+    <i  id = "txt"> <br><br> Thanks for joining our guides list!<br>
+    Now you must upload your Guiding ID  <br>
+      in order to verify your account.</i>
+  </h2>
+  <div id="file">
+  <input  type = "file" (change)="onFileSelected($event)">
+  </div>
+  <ion-button id="upload"  expand="block" color="black"  (click)="upload()">Upload</ion-button>
+
+</ion-content>

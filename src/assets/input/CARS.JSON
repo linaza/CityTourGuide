@@ -1,0 +1,13 @@
+[
+	{"Agency":"Albar","Address":"King David 19","Tel":"025001800","img":"./assets/icon/Albar.jpg"},
+	{"Agency":"Avis","Address":"King David 19","Tel":"026249001","img":"./assets/icon/avis.jpg"},
+	{"Agency":"Best","Address":"Jaffa road 159","Tel":"026258866","img":"./assets/icon/best.png"},
+	{"Agency":"Budget","Address":"King David 23","Tel":"039350015","img":"./assets/icon/budget.jpg"},
+	{"Agency":"Cal auto","Address":"King David 6","Tel":"037912000","img":"./assets/icon/Cal.png"},
+	{"Agency":"Eldan","Address":"King David 24","Tel":"026252151","img":"./assets/icon/eldan.jpg"},
+	{"Agency":"Hertz","Address":"King David 19","Tel":"6231351","img":"./assets/icon/hertz.jpg"},
+	{"Agency":"Middle-East","Address":"St.george","Tel":"026262777","img":"./assets/icon/middle.jpg"},
+	{"Agency":"Sixt","Address":"King David 8","Tel":"026250833","img":"./assets/icon/sixt.jpg"},
+	{"Agency":"Smartcar","Address":"King David 8","Tel":"026221150","img":"./assets/icon/smart.png"},
+	{"Agency":"T.i.r","Address":"King David 6","Tel":"026242554","img":"./assets/icon/tir.jpg"}
+]

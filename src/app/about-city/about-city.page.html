@@ -1,0 +1,21 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>About City</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content id="attractionsPage">
+  <ion-list>
+    <ion-item *ngFor="let item of results">
+      <ion-card id="attractionsList">
+        <ion-img id="attractionImg" src={{item.img}} style="display: block; width: 80%; height: 60%; margin-left: 10%">
+        </ion-img>
+          <ion-card-header>
+            <ion-card-title id="name">{{item.attraction}}</ion-card-title>
+            <ion-button id="callMe">call :{{item.phone}}</ion-button>
+            <p *ngFor="let hour of item.OpeningHours">{{hour}}</p>
+          </ion-card-header>
+      </ion-card>
+    </ion-item>
+  </ion-list>
+</ion-content>
