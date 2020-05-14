@@ -1,0 +1,28 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>signin</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content id="signin">
+  <div id="logview">
+    <ion-list>
+      <ion-item>
+        <ion-label position="floating">PhoneNumber</ion-label>
+        <ion-input type="String" [(ngModel)]="username"></ion-input>
+      </ion-item>
+      <ion-item>
+        <ion-label position="floating">Password</ion-label>
+        <ion-input type="password" [(ngModel)]="password"></ion-input>
+      </ion-item>
+      <ion-item>
+        <ion-label position="floating">Confirm Password</ion-label>
+        <ion-input type="password" [(ngModel)]="cpassword"></ion-input>
+      </ion-item>
+    </ion-list>
+    <div>
+      {{this.msg}}
+    </div>
+    <ion-button id="loginBut" fill="solid" expand="block" color="red" (click)="signup()">Sign in</ion-button>
+  </div>
+</ion-content>
