@@ -1,6 +1,6 @@
 # CityTourGuide / OLDCITY GUIDE
 This repository holds  my graduation project at JCE software engineering, the project is to develop an application which helps the tourists and guides the to discover the OldCity of Jerusalem even in offline mode, the app provides a map of the city by using the [OpenStreetMap](https://www.openstreetmap.org/#map=19/31.77659/35.22732).
-<img align = "right" src = "https://drive.google.com/file/d/1e07zgx-v0HYbTAAh_9Jfd7MLKmVY0l-I/view?usp=sharing" width = 30%>
+<img align = "right" src = "https://drive.google.com/file/d/1e07zgx-v0HYbTAAh_9Jfd7MLKmVY0l-I/view?usp=sharing/ab.png" width = 30%>
 
 
 
