@@ -17,6 +17,6 @@ Developing an application that helps tourists travel around the Old City more ea
 - Providing information about all the map attractions.
 - As bonus, providing the nearby cars rental companies.
 ## Tools & Practices :
-This application is built using **Angulerjs** + **ionic 4** + **Webstorm** as a frame work. 
+This application is built using **Anguler** + **ionic 4** + **Webstorm** as a frame work. 
 the map is built using **leaflet** library and the openStreetMap Tiles for the old city. 
 
