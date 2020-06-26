@@ -1,5 +1,5 @@
 # CityTourGuide / OLDCITY GUIDE
-  This repository holds  my graduation project at JCE software engineering - **OldCityGuide app**, the project is to develop an application which helps the tourists and guides to discover the OldCity of Jerusalem even in offline mode, the app provides a map of the city by using the [OpenStreetMap](https://www.openstreetmap.org/#map=19/31.77659/35.22732).
+  This repository holds  my graduation project at JCE software engineering - **OldCityGuide** app, the project is to develop an application which helps the tourists and guides to discover the OldCity of Jerusalem even in offline mode, the app provides a map of the city by using the [OpenStreetMap](https://www.openstreetmap.org/#map=19/31.77659/35.22732).
 <img align = "right" src = "https://github.com/linaza/CityTourGuide/blob/master/ab.png" width = 30%>
 
 ## Problem difinition :
