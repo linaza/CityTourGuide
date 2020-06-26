@@ -15,6 +15,7 @@ Developing an application that helps tourists travel around the Old City more ea
 - Allow tracking of tourists and guides locations on the map.
 - navigation to the free walking tours website.
 - Providing information about all the map attractions.
+- As bonus, providing the nearby cars rental companies.
 ## Tools & Practices :
 This application is built using Angulerjs + ionic + Webstorm as a frame work 
 the app has many features : maps, guides , groups , free tours , atractions and rental cars companies in the o;d city of jerusalem
