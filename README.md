@@ -4,8 +4,9 @@
 
 ## Problem difinition :
   The Tourist Information center provides free maps for tourists who come to Israel, the map is not really understandable, no explanations on how to get from point to point or information on existing attractions in the city!<br/>
-Another problem that many tourists get lost from their groups or guides, then its hard to find them, so the tourists find it easer if they go to the Tourist Information center and the office will help. 
-
+Another problem that many tourists get lost from their groups or guides, then its hard to find them, so the tourists find it easer if they go to the Tourist Information center and the office will help. <br/>
+Moreover the oldCity is full of fake guides, when a tourist is looking for a guide, there are plenty of people who claim to be a guide, end up stealing the tourists money.<br/>
+Another serious problem is about with tourists special needs, the office doed not allow them to keep accessibility map for there own, they can only photograph it, because there are few such maps there.
 ## Solution :
 
 ## Tools & Practices :
