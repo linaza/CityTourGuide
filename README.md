@@ -9,11 +9,11 @@ Moreover the oldCity is full of fake guides, when a tourist is looking for a gui
 Another serious problem is about with tourists special needs, the office doed not allow them to keep the [accessibility map](https://mfa.gov.il/MFA/IsraelExperience/Experience2016/AccessibilityMap.jpg) for there own, they can only photograph it, because there are few such maps there.
 ## Solution :
 Developing an application that helps tourists travel around the Old City more easily and conveniently by:
--[]
--[]
--[]
--[]
--[]
+- []
+- []
+- []
+- []
+- []
 ## Tools & Practices :
 This application is built using Angulerjs + ionic + Webstorm as a frame work 
 the app has many features : maps, guides , groups , free tours , atractions and rental cars companies in the o;d city of jerusalem
