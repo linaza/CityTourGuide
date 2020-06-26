@@ -10,10 +10,11 @@ Another serious problem is about with tourists special needs, the office doed no
 ## Solution :
 Developing an application that helps tourists travel around the Old City more easily and conveniently by:
 - Providing online/offline free virtual map for the oldcity of Jerusalem with attraction navigation by considering the attractive routes.
-- []
-- []
-- []
-- []
+- providing map with accessable routes.
+- Adding authorized guides to the application guides list and providing them usernames and passwords for security.
+- Allow tracking of tourists and guides locations on the map.
+- navigation to the free walking tours website.
+- Providing information about all the map attractions.
 ## Tools & Practices :
 This application is built using Angulerjs + ionic + Webstorm as a frame work 
 the app has many features : maps, guides , groups , free tours , atractions and rental cars companies in the o;d city of jerusalem
