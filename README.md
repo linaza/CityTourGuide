@@ -1,9 +1,9 @@
 # CityTourGuide / OLDCITY GUIDE
-This repository holds  my graduation project at JCE software engineering - OldCityGuide, the project is to develop an application which helps the tourists and guides to discover the OldCity of Jerusalem even in offline mode, the app provides a map of the city by using the [OpenStreetMap](https://www.openstreetmap.org/#map=19/31.77659/35.22732).
+  This repository holds  my graduation project at JCE software engineering - OldCityGuide, the project is to develop an application which helps the tourists and guides to discover the OldCity of Jerusalem even in offline mode, the app provides a map of the city by using the [OpenStreetMap](https://www.openstreetmap.org/#map=19/31.77659/35.22732).
 <img align = "right" src = "https://github.com/linaza/CityTourGuide/blob/master/ab.png" width = 30%>
 
 ## Problem difinition :
-The Tourist Information center provides free maps for tourists who come to Israel, the map is not really understandable, no explanations on how to get from point to point or information on existing attractions in the city!
+  The Tourist Information center provides free maps for tourists who come to Israel, the map is not really understandable, no explanations on how to get from point to point or information on existing attractions in the city!
 Another problem that many tourists get lost from their groups or guides, then its hard to find them, so the tourists find it easer if they go to the Tourist Information center and the office will help. 
 ## Solution :
 
