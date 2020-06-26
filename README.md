@@ -9,7 +9,7 @@ Moreover the oldCity is full of fake guides, when a tourist is looking for a gui
 Another serious problem is about with tourists special needs, the office doed not allow them to keep the [accessibility map](https://mfa.gov.il/MFA/IsraelExperience/Experience2016/AccessibilityMap.jpg) for there own, they can only photograph it, because there are few such maps there.
 ## Solution :
 Developing an application that helps tourists travel around the Old City more easily and conveniently by:
-- Providing free virtual map for the oldcity
+- Providing online/offline free virtual map for the oldcity of Jerusalem.
 - []
 - []
 - []
