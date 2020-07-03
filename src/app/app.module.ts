@@ -15,7 +15,13 @@ import {Geolocation} from '@ionic-native/geolocation/ngx';
 import {HttpClientModule} from '@angular/common/http';
 import {IonicStorageModule} from '@ionic/storage';
 import {Network} from '@ionic-native/network/ngx';
+import {Contacts, Contact} from '@ionic-native/contacts';
+import { CallNumber} from '@ionic-native/call-number/ngx';
+import { SMS} from '@ionic-native/sms/ngx';
 import { cordova} from '@ionic-native/core';
+import { ServiceWorkerModule } from '@angular/service-worker';
+
+
 
 @NgModule({
   declarations: [AppComponent],
@@ -28,13 +34,17 @@ import { cordova} from '@ionic-native/core';
     AppRoutingModule,
     AngularFireModule.initializeApp(environment.firebase),
     AngularFireAuthModule,
-    AngularFirestoreModule],
+    AngularFirestoreModule
+  ],
   providers: [
     StatusBar,
     SplashScreen,
       Geolocation,
+      Contact,
     { provide: RouteReuseStrategy, useClass: IonicRouteStrategy },
-      Network
+      Network,
+      CallNumber,
+      SMS
   ],
   bootstrap: [AppComponent]
 })

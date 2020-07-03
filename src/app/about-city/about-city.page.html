@@ -4,12 +4,11 @@
   </ion-toolbar>
 </ion-header>
 
-<ion-content id="attractionsPage">
+<ion-content  class="ionic-test.component.styles" id="attractionsPage">
   <ion-list>
     <ion-item *ngFor="let item of results">
       <ion-card id="attractionsList">
-        <ion-img id="attractionImg" src={{item.img}} style="display: block; width: 80%; height: 60%; margin-left: 10%">
-        </ion-img>
+        <ion-img id="attractionImg" [src]="item.img" style="display: block; width: 80%; height: 60%; margin-left: 10%"></ion-img>
           <ion-card-header>
             <ion-card-title id="name">{{item.attraction}}</ion-card-title>
             <ion-button id="callMe">call :{{item.phone}}</ion-button>

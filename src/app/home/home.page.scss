@@ -1,6 +1,7 @@
 
 #home{
   --ion-background-color: #EEB534;
+  width: 100%;
 }
 #welcomeBut{
   background-size: 100%;
@@ -30,7 +31,9 @@
   top: 50%;
   transform: translateY(-50%);
 }
-
+#welcomeBut{
+  margin-top: 10%;
+}
 #container strong {
   font-size: 20px;
   line-height: 26px;

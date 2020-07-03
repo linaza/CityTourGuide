@@ -17,15 +17,16 @@ export class MapsPage implements OnInit {
     this.geolocation.getCurrentPosition().then((resp) => {
       this.x =  resp.coords.latitude;
       this.y = resp.coords.longitude;
-     // this.ionViewDidEnter();
+      marker([this.x, this.y]).addTo(this.map)
+          .bindPopup('my location');
     }).catch((error) => {
       console.log('Error getting location', error);
     });
   }
   ionViewDidEnter() {
-    this.map = new Map('mapId').setView([0, 0], 16);
-    tileLayer('http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', {
-     attribution: 'edupala.com'
+    this.map = new Map('mapId').setView([ 31.7766282, 35.2275435], 16);
+    tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
     }).addTo(this.map);
     fetch('./assets/data.json').then(res => res.json())
         .then(json => {
@@ -35,9 +36,6 @@ export class MapsPage implements OnInit {
   }
 
   leafletMap() {
-    marker([this.x, this.y]).addTo(this.map)
-        .bindPopup('my location')
-        .openPopup();
     for (const property of this.propertyList) {
       marker([property.lat, property.long]).addTo(this.map)
           .bindPopup(property.city);

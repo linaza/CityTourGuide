@@ -7,7 +7,7 @@
 <ion-content  id="guidesListPage">
   <ion-list>
     <ion-item *ngFor="let item of results">
-      <ion-card id="cardList">
+      <ion-card id="cardList" (click)="call()" >
         <ion-card-header>
             <ion-card-title id="name">{{item.name}}</ion-card-title>
           <ion-card-subtitle id="number">{{item.phoneNumber}}</ion-card-subtitle>

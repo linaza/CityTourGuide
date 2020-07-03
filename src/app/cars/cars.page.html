@@ -7,10 +7,9 @@
   <ion-list>
     <ion-item *ngFor="let item of results">
       <ion-card id="carsList">
-        <div  >
+        <div>
         <ion-card-header id="bar">
-          <ion-img id="carImg" src={{item.img}} style="width: 100%; height: 5%;"></ion-img>
-
+          <ion-img id="carImg" [src]="item.img" style="width: 100%; height: 5%;"></ion-img>
           <ion-card-title id="car">{{item.Agency}}</ion-card-title>
           <ion-card-subtitle id="tel">Tel: {{item.Tel}}</ion-card-subtitle>
         </ion-card-header>

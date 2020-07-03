@@ -5,10 +5,54 @@
     "state" : "Isreal",
     "long": 35.2275435,
     "lat": 31.7766282
-    },{
-      "city": "Bab Alamoud",
-      "lat" : 31.7828917,
-      "long" : 35.2315571
+    },
+    {
+      "city": "New Gate",
+      "state" : "Isreal",
+      "long": 35.2262,
+      "lat": 31.7793
+    },
+
+    {
+      "city": "Jafa Gate",
+      "state" : "Isreal",
+      "long": 35.2275435,
+      "lat": 31.7766282
+    },
+    {
+      "city": "Herod's Gate",
+      "state" : "Isreal",
+      "long": 35.2337,
+      "lat": 31.7830
+    },
+    {
+      "city": "Lions' Gate",
+      "state" : "Isreal",
+      "long": 35.2369,
+      "lat": 31.7808
+    },
+    {
+      "city": "Dung Gate",
+      "state" : "Isreal",
+      "long": 35.2342,
+      "lat": 31.7748
+    },
+    {
+      "city": "Zion Gate",
+      "state" : "Isreal",
+      "long": 35.2296,
+      "lat": 31.7729
+    },
+    {
+      "city": "Golden Gate",
+      "state" : "Isreal",
+      "long": 35.2307,
+      "lat": 31.7802
+    },
+    {
+      "city": "Damascus Gate",
+      "lat" : 31.7817,
+      "long" : 35.2305
     },{
       "city": "Western Wall Tunnel",
       "lat" : 31.7769411,
@@ -20,7 +64,7 @@
       "long" : 35.2354608
     },
     {
-      "city": "Ministry of Education and Culture",
+      "city": "Ministry of Tourism Tourist Information",
       "lat" : 31.7766894,
       "long" : 35.2278225
     },
@@ -99,7 +143,7 @@
       "lat" : 31.778481,
       "long" : 35.2296
     }, {
-      "city": "St. Alexander’s Church!!!!!!!!!!!!!!!!",
+      "city": "St. Alexander’s Church",
       "lat" : 31.7780578,
       "long" : 35.2307190
     }, {
@@ -112,8 +156,8 @@
       "long" : 35.227441
     }, {
       "city": "Church of Saint John the Baptist",
-      "lat" : 31.767934,
-      "long" : 35.163064
+      "lat" : 31.7770,
+      "long" : 35.2297
     }, {
       "city": "Austrian Hospice",
       "lat" : 31.780326,
@@ -123,6 +167,7 @@
       "lat" : 31.782072,
       "long" : 35.230749
     }, {
+      "city": "Roman Square",
       "city": "Roman Square",
       "lat" : 31.781675,
       "long" : 35.230531

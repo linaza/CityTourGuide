@@ -11,10 +11,9 @@ import { ActivatedRoute , Router} from '@angular/router';
 export class LoginPage implements OnInit {
   username: string ;
   password: string ;
-  isA: boolean;
+  isA = false ;
   constructor(public afAuth: AngularFireAuth, private router: Router) { }
   ngOnInit() {
-      this.isA = false;
   }
    login() {
     const {username, password} = this;
@@ -23,15 +22,18 @@ export class LoginPage implements OnInit {
       if (res) {
           console.log('okay!');
           this.isA = true;
-      }
-      if (this.isA === true) {
-          this.router.navigate(['/my-acount']);
           this.username = null;
           this.password = null;
           res = null;
+          if (this.isA === true) {
+          this.router.navigate(['/my-acount']);
+          }
+      } else if (this.isA === false) {
+          console.log('not okay!!!!!!!!!!!!!!!!!!!!');
       }
      } catch (err) {
       console.dir(err);
+        this.router.navigate(['/login']);
     }
   }
 }

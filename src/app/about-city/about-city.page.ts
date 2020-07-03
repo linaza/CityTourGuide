@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { NgModule } from '@angular/core';
 @Component({
   selector: 'app-about-city',
   templateUrl: './about-city.page.html',
