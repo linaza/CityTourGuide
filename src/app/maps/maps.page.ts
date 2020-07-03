@@ -24,8 +24,8 @@ export class MapsPage implements OnInit {
   }
   ionViewDidEnter() {
     this.map = new Map('mapId').setView([0, 0], 16);
-    tileLayer('http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png', {
-     attribution: 'edupala.com'
+    tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
     }).addTo(this.map);
     fetch('./assets/data.json').then(res => res.json())
         .then(json => {
