@@ -1,0 +1,155 @@
+{
+  "properties" : [
+    {
+    "city": "Jafa Gate",
+    "state" : "Isreal",
+    "long": 35.2275435,
+    "lat": 31.7766282
+    },{
+      "city": "Bab Alamoud",
+      "lat" : 31.7828917,
+      "long" : 35.2315571
+    },{
+      "city": "Western Wall Tunnel",
+      "lat" : 31.7769411,
+      "long" : 35.2334394
+    },
+    {
+      "city": "Dome of the Rock",
+      "lat" : 31.7782306,
+      "long" : 35.2354608
+    },
+    {
+      "city": "Ministry of Education and Culture",
+      "lat" : 31.7766894,
+      "long" : 35.2278225
+    },
+    {
+      "city": "Tower of David",
+      "lat" : 31.7759893,
+      "long" : 35.2283780
+    },
+    {
+      "city": "Christian Information Center",
+      "lat" : 31.7765183,
+      "long" : 35.2288164
+    },
+    {
+      "city": "King David’s Tomb",
+      "lat" : 31.771676,
+      "long" : 35.229436
+    }, {
+      "city": "Room of the Last Supper",
+      "lat" : 31.771836,
+      "long" : 35.229314
+    }, {
+      "city": "St. Peter in Gallicantu",
+      "lat" : 31.777521,
+      "long" : 35.227053
+    }, {
+      "city": "City of David",
+      "lat" : 31.77428,
+      "long" : 35.235853
+    }, {
+      "city": "Temple Institute",
+      "lat" : 31.775532,
+      "long" : 35.232702
+    }, {
+      "city": "Burnt House – Katros House",
+      "lat" : 31.7755933,
+      "long" : 35.2326983
+    }, {
+      "city": "Wohl Archeology Museum - Herodian Quarter",
+      "lat" : 31.775243,
+      "long" : 35.232145
+    }, {
+      "city": "Western Wall Tunnels &amp; Generations Center",
+      "lat" : 31.776719,
+      "long" : 35.234509
+    }, {
+      "city": "The Last Battle for the Old City Museum",
+      "lat" : 31.776792,
+      "long" : 35.231034
+    }, {
+      "city": "Ophel Jerusalem Archaeological Park",
+      "lat" : 31.775001,
+      "long" : 35.234565
+    }, {
+      "city": "Roof Promenade",
+      "lat" : 31.77445,
+      "long" : 35.232927
+    }, {
+      "city": "Hurva Synagogue",
+      "lat" : 31.77537,
+      "long" : 35.231064
+    }, {
+      "city": "Four Spanish Synagogues",
+      "lat" : 31.774562,
+      "long" : 35.231464
+    }, {
+      "city": "St. James Cathedral",
+      "lat" : 31.774557,
+      "long" : 35.228879
+    }, {
+      "city": "Armenian Museum",
+      "lat" : 31.773277,
+      "long" : 35.229023
+    }, {
+      "city": "Church of the Holy Sepulchre",
+      "lat" : 31.778481,
+      "long" : 35.2296
+    }, {
+      "city": "St. Alexander’s Church!!!!!!!!!!!!!!!!",
+      "lat" : 31.7780578,
+      "long" : 35.2307190
+    }, {
+      "city": "Church of the Redeemer (Lutheran)",
+      "lat" : 31.777806,
+      "long" : 35.23055
+    }, {
+      "city": "Saint Savior’s Parish Church",
+      "lat" : 31.778628,
+      "long" : 35.227441
+    }, {
+      "city": "Church of Saint John the Baptist",
+      "lat" : 31.7770,
+      "long" : 35.2297
+    }, {
+      "city": "Austrian Hospice",
+      "lat" : 31.780326,
+      "long" : 35.232116
+    }, {
+      "city": "Zedekiah’s Cave",
+      "lat" : 31.782072,
+      "long" : 35.230749
+    }, {
+      "city": "Roman Square",
+      "lat" : 31.781675,
+      "long" : 35.230531
+    }, {
+      "city": "Ecce Homo",
+      "lat" : 31.780352,
+      "long" : 35.233327
+    }, {
+      "city": "Via Dolorosa Procession",
+      "lat" : 31.780091,
+      "long" : 35.232126
+    }, {
+      "city": "Franciscan Museum",
+      "lat" : 31.780633,
+      "long" : 35.23394
+    }, {
+      "city": "Flagellation Church",
+      "lat" : 31.780412,
+      "long" : 35.233694
+    }, {
+      "city": "Santa Anne’s Basilica",
+      "lat" : 31.780897,
+      "long" : 35.236095
+    }, {
+      "city": "Terra Santa Museum",
+      "lat" : 31.780633,
+      "long" : 35.23394
+    }
+  ]
+}

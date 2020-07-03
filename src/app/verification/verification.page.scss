@@ -1,0 +1,41 @@
+#verification{
+  --ion-background-color: #EEB534;
+  margin-top: 20%;
+  text-align: center;
+}
+#file{
+  display: flex;
+  padding: 0;
+  margin-top: 20%;
+  margin-left: 30%;
+  width: 40%;
+
+}
+#txt{
+  text-align: center;
+  margin: auto;
+
+}
+#msg{
+  height: 25%;
+  margin-top: 15%;
+  margin-left: 10%;
+  color: #ffffff;
+  background-color: rgba(72, 104, 255, 0.87);
+  border-radius: 20px;
+  font-size: 16px;
+  width: 80%;
+  alignment: center;
+
+}
+#upload{
+  margin-top: 10%;
+  text-shadow: #4d4d4d;
+  color: #6a64ff;
+  solid-color: #eb445a;
+  text-overflow: clip;
+  background-color: #f2f2f2;
+  width: 50%;
+  margin-left: 25%;
+  border-radius: 20px;
+}

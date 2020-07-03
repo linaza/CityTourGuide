@@ -1,0 +1,24 @@
+<ion-header  [translucent]="true">
+  <ion-toolbar>
+    <ion-title>
+      Welcome Page
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content   id="home"[fullscreen]="true">
+  <div>
+  <div id="TourismLogo">
+    <img src="./assets/icon/ab.png" style="display: block; width: 80%; height: 60%; margin-left: 10%">
+  </div>
+  <ion-list id ="welcomeBut">
+    <ion-button id="tourist" class="button button-stable button-large" fill="solid" expand="block" color="red" routerLink="/welcome">I am a Tourist</ion-button>
+    <ion-button id="Guide" class="button button-stable button-large" fill="solid" expand="block" color="red" routerLink="/login">I am a Guide</ion-button>
+  </ion-list>
+
+  <div id="container">
+    <strong>Welcome to Jerusalem!</strong>
+    <p>Send us <a target="_blank" rel="noopener noreferrer" href="https://ionicframework.com/docs/components">feedback</a></p>
+  </div>
+  </div>
+</ion-content>
